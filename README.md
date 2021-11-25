@@ -22,7 +22,7 @@
 
 |![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/k-medias_k-inertia.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/"clusterizacion k-medias.png"?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/clusterizacion-k-medias.png?raw=true) |
  
 
 
