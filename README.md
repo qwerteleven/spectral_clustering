@@ -5,12 +5,12 @@
 
 |Dataset A|Dataset B|Dataset C|
 |---------|---------|---------|
+
+| ![alt text](https://github.com/qwerteleven/spectral_clustering/blob/main/assets/dataset_A.png?raw=true) |
  
-| ![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/dataset_A.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/blob/main/assets/dataset_B.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/dataset_B.png?raw=true) |
- 
-![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/dataset_C.png.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/blob/main/assets/dataset_C.png.png?raw=true) |
 
 
 
