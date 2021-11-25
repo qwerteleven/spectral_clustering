@@ -15,7 +15,8 @@
  
 |K election|Clusterization K-MEDIAS|
 |----------|-----------------------|
-<img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/k-medias_k-inertia.png" width="308"> <img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/clusterizacion-k-medias.png" width="308">
+
+<img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/k-medias_k-inertia.png" width="408"> <img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/clusterizacion-k-medias.png" width="308">
  
 
 
