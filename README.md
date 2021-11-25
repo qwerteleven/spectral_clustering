@@ -6,11 +6,11 @@
 |Dataset A|Dataset B|Dataset C|
 |---------|---------|---------|
  
-| ![alt text](https://github.com/qwerteleven/spectral_clustering/assets/dataset_A.png?raw=true) |
+| ![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/dataset_A.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/assets/dataset_B.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/dataset_B.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/assets/dataset_C.png.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/dataset_C.png.png?raw=true) |
 
 
 
@@ -20,9 +20,9 @@
 |K election|Clusterization K-MEDIAS|
 |----------|-----------------------|
 
-|![alt text](https://github.com/qwerteleven/spectral_clustering/assets/k-medias_k-inertia.png?raw=true) |
+|![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/k-medias_k-inertia.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/assets/clusterizacion k-medias.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/clusterizacion k-medias.png?raw=true) |
  
 
 
@@ -32,18 +32,18 @@
 |Sorted eigenvalues|Laplacian Graph|
 |------------------|---------------|
 
-| ![alt text](https://github.com/qwerteleven/spectral_clustering/assets/autovalores-autovectores-lapaciano.png?raw=true) |
+| ![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/autovalores-autovectores-lapaciano.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/assets/Grafo-laplaciano.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/Grafo-laplaciano.png?raw=true) |
  
 
 
 |Heatmap eigenvectors|Zoom Sorted Eigenvalues|
 |--------------------|-----------------------|
  
-|![alt text](https://github.com/qwerteleven/spectral_clustering/assets/mapa_calor_autovectores_laplaciano.png?raw=true) |
+|![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/mapa_calor_autovectores_laplaciano.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/assets/zoom-autovalores.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/zoom-autovalores.png?raw=true) |
 
 
 # Results Spectral Clustering
@@ -53,10 +53,10 @@
 |---------|---------|---------|
 
  
-|![alt text](https://github.com/qwerteleven/spectral_clustering/assets/clasificacion_SC_dataset_A.png?raw=true) 
+|![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/clasificacion_SC_dataset_A.png?raw=true) 
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/assets/clasificacion_SC_dataset_B.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/clasificacion_SC_dataset_B.png?raw=true) |
  
-![alt text](https://github.com/qwerteleven/spectral_clustering/assets/clasificacion_SC_dataset_C.png?raw=true) |
+![alt text](https://github.com/qwerteleven/spectral_clustering/tree/main/assets/clasificacion_SC_dataset_C.png?raw=true) |
  
 
