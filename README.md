@@ -26,14 +26,14 @@
 |Sorted eigenvalues|Laplacian Graph|
 |------------------|---------------|
 
-<img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/autovalores-autovectores-lapaciano.png" width="308"> <img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/Grafo-laplaciano.png" width="308">
+<img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/autovalores-autovectores-lapaciano.png" width="408"> <img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/Grafo-laplaciano.png" width="308">
  
 
 
 |Heatmap eigenvectors|Zoom Sorted Eigenvalues|
 |--------------------|-----------------------|
  
-<img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/mapa_calor_autovectores_laplaciano.png" width="308"> <img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/zoom-autovalores.png" width="308"> 
+<img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/mapa_calor_autovectores_laplaciano.png" width="308"> <img src="https://github.com/qwerteleven/spectral_clustering/blob/main/assets/zoom-autovalores.png" width="408"> 
 
 
 # Results Spectral Clustering
